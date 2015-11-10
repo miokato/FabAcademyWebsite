@@ -1,0 +1,14 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background: url("../image/waag.jpg") center 0 no-repeat; 
+    background-size: cover;
+    background-color: #000;
+    color: white;
+}
+
+.navbar-default {
+  background-color: #eeeeee;
+}
+
+.glyphicon {
+}
