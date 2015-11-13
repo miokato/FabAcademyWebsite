@@ -7,6 +7,7 @@
 }
 
 .navbar-default {
+  background-color: #eee;
 }
 
 .img-responsive-overwrite {
@@ -27,5 +28,14 @@
 	height: 100%;
 }
 
-.bg-docs-footer {
+.footer {
+  padding-top:2em;
+  margin-top:1em;
+  background-color: #eee;
 }
+
+.img-circle {
+  margin: 0 auto;
+}
+
+
