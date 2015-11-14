@@ -38,4 +38,15 @@
   margin: 0 auto;
 }
 
-
+a.cc {
+  color:black;
+}
+a:visited.cc {
+  color:black;
+}
+a:hover.cc {
+  color:black;
+}
+a:active.cc {
+  color:black;
+}
